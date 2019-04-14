@@ -1,0 +1,24 @@
+.header {
+    background-color: #b91032;
+    width: 99.2%;
+    margin: 0;
+    padding: 1px;
+    color: white;
+    border: 5px solid white;
+    border-radius: 35px;
+    border-top: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    h2{
+        font-family: 'Pacifico', cursive;
+        text-align: center;
+        font-size: 2.2rem;
+        text-shadow: -2.3px 0 black, 0 2.3px black, 2.3px 0 black, 0 -2.3px black;
+    }
+}
+
+body {
+    margin: 0;
+    background-color: #f9e9c2;
+    
+}

@@ -21,7 +21,7 @@ class App extends Component {
   
   render() {
     return (
-      <div className="App">
+      <div>
         <Header />
         <ChatHistory chatHistory={this.state.chatHistory} />
       </div>
